@@ -1,2 +1,2 @@
 # PRQ-Blue-Shift
-Replication repository for "Why Do Election Results Change After Election Day? The Blue Shift in California Elections", which is forthcoming in Political Research Quarterly.  
+Replication repository for "Why Do Election Results Change After Election Day? The Blue Shift in California Elections", which is forthcoming in Political Research Quarterly.  Here we provide replication code for all of the quantitative results reported in the main text of our paper.  In some instances we cannot share the data in this public repository.  Researchers who are interested in obtaining those data are advised to contact the authors.
